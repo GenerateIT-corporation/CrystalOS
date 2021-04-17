@@ -24,5 +24,4 @@ I'm always happy to get suggestions, because I'm only 14 and I need help sometim
 Thanks for downloading it.
 
 Best regards,
-
 The creator
