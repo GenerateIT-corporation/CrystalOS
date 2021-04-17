@@ -25,3 +25,11 @@ Thanks for downloading it.
 
 Best regards,
 The creator
+
+# Screenshots
+
+![alt tag](https://cdn.discordapp.com/attachments/819707035360034836/832680198507331584/unknown.png)
+(This is the latest release, but those numbers aren't there anymore)
+
+![alt tag](https://cdn.discordapp.com/attachments/819707035360034836/825086664467808286/unknown.png)
+(This is from 1 month before)
