@@ -19,7 +19,7 @@ Before you download this system you have to read this article to the end.
 
 -scrollbars are working, but I still have to build it into the application
 # Credits
-I'm always happy to get suggestions, because I'm only 14 and I need help sometimes.
+I'm always happy to get suggestions, because I'm only 15 and I need help sometimes.
 
 Thanks for downloading it.
 
@@ -28,8 +28,5 @@ The creator
 
 # Screenshots
 
-![alt tag](https://cdn.discordapp.com/attachments/819707035360034836/832680198507331584/unknown.png)
-(This is the latest release, but those numbers aren't there anymore)
-
-![alt tag](https://cdn.discordapp.com/attachments/819707035360034836/825086664467808286/unknown.png)
-(This is from 1 month before)
+![alt tag](https://cdn.discordapp.com/attachments/819707035360034836/856490050292416512/unknown.png)
+This is the latest release, but still has a lot of issues!
